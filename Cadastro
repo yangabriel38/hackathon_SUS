@@ -1,15 +1,51 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
   <head>
-
     <meta charset="utf-8">
-    <title>SUS/login</title>
-
+    <title>SUS/cadastro</title>
+    <meta name= "author" content="Yan Gabriel; Leticia; Carlos">
+    <meta name= "description" content= "Cadastro de usuário">
   </head>
+
   <body>
-
     <h1>CADASTRO</h1>
+    <pre>
+    <font size="5">
+        <p>Nome completo*:                                          Cartão do SUS*:</p>
 
+
+
+
+
+        <p>Email:                                         Data de nascimento:                        CPF:</p>
+
+
+
+
+
+        <p>Telefone:                                                Cidade: </p>
+
+
+
+
+
+
+        <p>Endereço:</p>
+
+
+
+
+        <p>                   <a 
+            class = "special"
+            href= https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started 
+            title= "Dados Pessoais"
+            target= "_blank" > <em>CADASTRAR</em> </a> </p>
+
+
+        
+    </font>
+    </pre>
   </body>
+  
 </html>
