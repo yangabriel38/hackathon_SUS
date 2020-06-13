@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+  <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" 
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" 
+          crossorigin="anonymous">
+    <meta charset="utf-8">
+    <title>SUS/cadastro</title>
+    <meta name= "author" content="Yan Gabriel; Leticia; Carlos">
+    <meta name= "description" content= "Cadastro de usuário">
+  </head>
+
+  <body>
+    <h1>CADASTRO</h1>
+    <pre>
+    <font size="5">
+        <p>Nome completo*:                                          Cartão do SUS*:</p>
+
+
+
+
+
+        <p>Email:                                         Data de nascimento:                        CPF:</p>
+
+
+
+
+
+        <p>Telefone:                                                Cidade: </p>
+
+
+
+
+
+
+        <p>Endereço:</p>
+
+
+
+
+        <p>                   <a 
+            class = "special"
+            href= https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started 
+            title= "Dados Pessoais"
+            target= "_blank" > <em>CADASTRAR</em> </a> </p>
+
+
+        
+    </font>
+    </pre>
+  </body>
+  
+</html>
